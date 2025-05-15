@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_tables"
+        android:icon="@drawable/app_menu"
+        android:title="@string/stollar" />
+    <item
+        android:id="@+id/nav_menu"
+        android:icon="@drawable/ic_menu"
+        android:title="@string/menyu" />
+    <item
+        android:id="@+id/nav_settings"
+        android:icon="@drawable/settings_bv"
+        android:title="@string/sozlamalar" />
+</menu>

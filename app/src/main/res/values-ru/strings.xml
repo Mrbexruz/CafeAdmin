@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CafeAdmin</string>
+    <string name="stollar">Столы</string>
+    <string name="menyu">Меню</string>
+    <string name="sozlamalar">Настройки</string>
+    <string name="hello_blank_fragment">Привет пустой фрагмент</string>
+
+    <string name="stol_raqamini_kiriting">Введите номер стола...</string>
+    <string name="yangi_stol_qo_shish">Добавить новый стол</string>
+    <string name="saqlash">Сохранить</string>
+    <string name="qoshildi">%1$s добавлен</string>
+    <string name="iltimos_raqam_kiriting">Пожалуйста, введите номер</string>
+    <string name="bekor_qilish">Отмена</string>
+    <string name="stol">Стол %1$s</string>
+    <string name="xatolik">Ошибка: %1$s</string>
+
+    <string name="ovqat_nomi">Название блюда</string>
+    <string name="narxi">Цена</string>
+    <string name="ma_lumotlarni_to_ldiring">Заполните данные</string>
+
+    <string name="ni_o_chirmoqchimisiz">Вы хотите удалить %1$s?</string>
+    <string name="ochirish">Удалить</string>
+    <string name="ha">Да</string>
+    <string name="o_chirildi">Удалено ✅</string>
+    <string name="yo_q">Нет</string>
+
+    <string name="buyurtma_tayyor_bo_ldi">Заказ готов ✅</string>
+    <string name="tozalash">Очистить</string>
+
+    <string name="new_order_message">Поступил заказ со стола: %1$s</string>
+    <string name="notification_title">Новый заказ</string>
+
+    <string name="tillar">Рус</string>
+    <string name="buyurtma_topilmadi">Заказ не найден</string>
+    <string name="buyurtma_tayyor_deb_belgilandi">Заказ отмечен как готовый</string>
+    <string name="barcha_buyurtmalar_o_chirildi">Все заказы удалены</string>
+
+    <string name="umumiy_summa_0_so_m">Общая сумма: %1$d сум</string>
+    <string name="food_count">Количество блюд: %1$d</string>
+
+
+</resources>

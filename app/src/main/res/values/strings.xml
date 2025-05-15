@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">CafeAdmin</string>
+
+    <string name="stollar">Stollar</string>
+    <string name="menyu">Menyu</string>
+    <string name="sozlamalar">Sozlamalar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="stol_raqamini_kiriting">Stol raqamini kiriting...</string>
+    <string name="yangi_stol_qo_shish">Yangi stol qoshish</string>
+    <string name="saqlash">Saqlash</string>
+    <string name="qoshildi">%1$s qoshildi</string>
+    <string name="iltimos_raqam_kiriting">Iltimos, raqam kiriting</string>
+    <string name="bekor_qilish">Bekor qilish</string>
+    <string name="stol">Stol %1$s</string>
+    <string name="xatolik">Xatolik: %1$s</string>
+
+    <string name="ovqat_nomi">Ovqat nomi</string>
+    <string name="narxi">Narxi</string>
+    <string name="ma_lumotlarni_to_ldiring">Ma\'lumotlarni to‘ldiring</string>
+
+    <string name="ni_o_chirmoqchimisiz">%1$s ni o‘chirmoqchimisiz?</string>
+    <string name="ochirish">O‘chirish</string>
+    <string name="ha">Ha</string>
+    <string name="o_chirildi">O‘chirildi ✅</string>
+    <string name="yo_q">Yo‘q</string>
+
+    <string name="ichimliklar">Ichimliklar</string>
+    <string name="fast_food">Fast-Food</string>
+    <string name="quyuq_ovqatlar">Quyuq Ovqatlar</string>
+    <string name="suyuq_ovqatlar">Suyuq Ovqatlar</string>
+    <string name="buyurtma_tayyor_bo_ldi">Buyurtma tayyor bo\'ldi ✅</string>
+    <string name="tozalash">Tozalash</string>
+
+    <string name="new_order_message"> %1$s :dan buyurtma keldi</string>
+    <string name="notification_title">Yangi buyurtma</string>
+
+    <string name="tillar">Uzb</string>
+    <string name="buyurtma_topilmadi">Buyurtma topilmadi</string>
+    <string name="buyurtma_tayyor_deb_belgilandi">Buyurtma tayyor deb belgilandi</string>
+    <string name="barcha_buyurtmalar_o_chirildi">Barcha buyurtmalar o\'chirildi</string>
+    <string name="umumiy_summa_0_so_m">Umumiy summa: %1$d som</string>
+    <string name="food_count">Soni: %1$d</string>
+
+
+    <string name="jami">Jami: %1$d som</string>
+    <string name="total_sum">Umumiy summa: %1$s сум</string>
+
+
+</resources>
